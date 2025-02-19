@@ -16,6 +16,10 @@ People currently working on the project :
 * Naseel Sinan : planning and control 
 * Ahmed : planning and control
 
+We need people to work on : 
+
+* vision
+* control 
 
 Forms to fill: 
 
