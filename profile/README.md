@@ -13,5 +13,5 @@ IEEE Robotics and Automation Magazine, 2023
 
 People currently working on the project : 
 
-Naseel Sinan : planning and control 
-Ahmed : planning and control
+* Naseel Sinan : planning and control 
+* Ahmed : planning and control
